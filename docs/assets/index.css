@@ -8,6 +8,11 @@
     align-items: center;
 }
 
+p.note, p.note > a {
+    color: lightgrey;
+    font-style: italic;
+}
+
 section {
 }
 
